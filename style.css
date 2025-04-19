@@ -210,9 +210,11 @@ nav.right span {
     font-size: 20px;
 }
 
-.projects-section {
+.projects-sections {
   padding: 40px;
   background-color: #f9f9f9;
+  padding: 0 50px;
+  margin-bottom: 100px;
 }
 
 .project-cards {
@@ -252,7 +254,7 @@ nav.right span {
   text-decoration: none;
   font-weight: bold;
 }
-.projects-section {
+.projects-sections {
     padding: 40px;
     background-color: var(--background-color);
     text-align: center;
